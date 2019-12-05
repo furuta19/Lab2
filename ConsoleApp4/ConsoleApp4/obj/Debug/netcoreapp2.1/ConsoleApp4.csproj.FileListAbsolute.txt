@@ -1,0 +1,10 @@
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfo.cs
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.deps.json
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.json
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.pdb
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\Users\ПУДГЕ\source\repos\Lab2\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.pdb
